@@ -19,7 +19,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/loginapp.git
+git clone https://github.com/Alteztyn/Login-App/tree/master
 Open in Android Studio:
 
 Open Android Studio.
