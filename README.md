@@ -21,3 +21,19 @@ To get a copy of this project up and running on your local machine for developme
 ### Clone the Repository
 ```bash
 git clone https://github.com/Alteztyn/Login-App.git
+
+```
+### Open in Android Studio
+1. **Open Android Studio**.
+2. **Import the cloned project**:
+   - Go to **File** > **Open**.
+   - Select the cloned project directory.
+
+### Run the Application
+1. **Connect an Android device** or **start an emulator**.
+2. Click the **"Run"** button (green triangle) in Android Studio to launch the application.
+
+### Usage
+1. Enter your **username** and **password** in the respective fields.
+2. Click the **"Login"** button to log in.
+3. For social login, tap the **Facebook** or **Google** icons (implement functionality as needed).
